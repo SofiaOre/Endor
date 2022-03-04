@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Endor/static/css/main.e793af79.chunk.css",
+    "main.css": "/Endor/static/css/main.960c2ee6.chunk.css",
     "main.js": "/Endor/static/js/main.9efc6904.chunk.js",
     "main.js.map": "/Endor/static/js/main.9efc6904.chunk.js.map",
     "runtime-main.js": "/Endor/static/js/runtime-main.336a6162.js",
@@ -10,7 +10,7 @@
     "static/js/2.939ea345.chunk.js.map": "/Endor/static/js/2.939ea345.chunk.js.map",
     "index.html": "/Endor/index.html",
     "static/css/2.74ba11ca.chunk.css.map": "/Endor/static/css/2.74ba11ca.chunk.css.map",
-    "static/css/main.e793af79.chunk.css.map": "/Endor/static/css/main.e793af79.chunk.css.map",
+    "static/css/main.960c2ee6.chunk.css.map": "/Endor/static/css/main.960c2ee6.chunk.css.map",
     "static/js/2.939ea345.chunk.js.LICENSE.txt": "/Endor/static/js/2.939ea345.chunk.js.LICENSE.txt",
     "static/media/mdb.css": "/Endor/static/media/arrow_right.f7c6ac6d.svg",
     "static/media/all.min.css": "/Endor/static/media/fa-solid-900.eeccf4f6.woff",
@@ -24,7 +24,7 @@
     "static/js/runtime-main.336a6162.js",
     "static/css/2.74ba11ca.chunk.css",
     "static/js/2.939ea345.chunk.js",
-    "static/css/main.e793af79.chunk.css",
+    "static/css/main.960c2ee6.chunk.css",
     "static/js/main.9efc6904.chunk.js"
   ]
 }
