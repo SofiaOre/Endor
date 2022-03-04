@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/ecommerceOrecchia/static/css/main.e86d4fcd.chunk.css",
+    "main.js": "/ecommerceOrecchia/static/js/main.12420727.chunk.js",
+    "main.js.map": "/ecommerceOrecchia/static/js/main.12420727.chunk.js.map",
+    "runtime-main.js": "/ecommerceOrecchia/static/js/runtime-main.a548deb0.js",
+    "runtime-main.js.map": "/ecommerceOrecchia/static/js/runtime-main.a548deb0.js.map",
+    "static/css/2.f33e6e2a.chunk.css": "/ecommerceOrecchia/static/css/2.f33e6e2a.chunk.css",
+    "static/js/2.79461164.chunk.js": "/ecommerceOrecchia/static/js/2.79461164.chunk.js",
+    "static/js/2.79461164.chunk.js.map": "/ecommerceOrecchia/static/js/2.79461164.chunk.js.map",
+    "index.html": "/ecommerceOrecchia/index.html",
+    "static/css/2.f33e6e2a.chunk.css.map": "/ecommerceOrecchia/static/css/2.f33e6e2a.chunk.css.map",
+    "static/css/main.e86d4fcd.chunk.css.map": "/ecommerceOrecchia/static/css/main.e86d4fcd.chunk.css.map",
+    "static/js/2.79461164.chunk.js.LICENSE.txt": "/ecommerceOrecchia/static/js/2.79461164.chunk.js.LICENSE.txt",
+    "static/media/mdb.css": "/ecommerceOrecchia/static/media/arrow_right.f7c6ac6d.svg",
+    "static/media/all.min.css": "/ecommerceOrecchia/static/media/fa-solid-900.eeccf4f6.woff",
+    "static/media/loading.739e61b3.jpg": "/ecommerceOrecchia/static/media/loading.739e61b3.jpg",
+    "static/media/logo.50dfc6b5.svg": "/ecommerceOrecchia/static/media/logo.50dfc6b5.svg",
+    "static/media/slide1.f7643a97.jpg": "/ecommerceOrecchia/static/media/slide1.f7643a97.jpg",
+    "static/media/slide2.757f5213.jpg": "/ecommerceOrecchia/static/media/slide2.757f5213.jpg",
+    "static/media/slide3.5804c46b.jpg": "/ecommerceOrecchia/static/media/slide3.5804c46b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a548deb0.js",
+    "static/css/2.f33e6e2a.chunk.css",
+    "static/js/2.79461164.chunk.js",
+    "static/css/main.e86d4fcd.chunk.css",
+    "static/js/main.12420727.chunk.js"
+  ]
+}
