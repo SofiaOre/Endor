@@ -68,9 +68,16 @@ const Footer = () => {
           </MDBCol>
         </MDBRow>
       </MDBContainer>
-      <center>
-          Diseño y desarrollo por  <a href="https://www.linkedin.com//">Sofia Anabella Orecchia</a>
-       </center>
+       <div className="footerCopy">
+        <p>Copyright EndorMates- 2022. Todos los derechos reservados.</p>
+        <p>
+          Diseño y desarrollo por{" "}
+          <a className="link" href="https://www.linkedin.com//">
+            Sofia Anabella Orecchia
+          </a>
+        </p>
+      </div>
+
      
     </MDBFooter>
   );
