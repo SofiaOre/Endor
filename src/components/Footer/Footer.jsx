@@ -69,7 +69,7 @@ const Footer = () => {
         </MDBRow>
  <div class="row">
         <div class="col-md-12 text-right">
-          <p class="small">Orecchia, Sofia Anabella @2021.<br> Todos los derechos reservados.</p>
+          <p class="small">Orecchia, Sofia Anabella @2021. Todos los derechos reservados.</p>
         </div>
       </div>
       </MDBContainer>
